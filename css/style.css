@@ -1,0 +1,15 @@
+.hidden {
+  display: none;
+}
+body {
+  background-image: "";
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+.clock {
+  display: flex;
+  justify-content: center;
+  font-size: 150px;
+}
